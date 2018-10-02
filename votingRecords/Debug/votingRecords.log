@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\abirc\source\repos\votingrecords\votingrecords\source.cpp(31): error C3861: 'displayMenu': identifier not found
+c:\users\abirc\source\repos\votingrecords\votingrecords\source.cpp(58): warning C4551: function call missing argument list
+c:\users\abirc\source\repos\votingrecords\votingrecords\source.cpp(78): error C2082: redefinition of formal parameter 'numOfIssues'
